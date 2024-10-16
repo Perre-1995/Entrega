@@ -55,12 +55,6 @@ html, body, * {
     grid-template-rows: repeat(2, 40%);
   }
   
-  main .class .contenedor {
-    min-height: 70vh;
-    margin: 100px 20px;
-    display: flex;
-    grid-template-columns: repeat(3,1fr)
-  }
   main .class .img-uno {
     min-height: 70vh;
     
@@ -99,7 +93,7 @@ html, body, * {
   
   section {
     margin: 20px 20px;
-    background-color: #B89B7A;
+    background-color: #bd9262;
     justify-content: center;
     display: flex;
     gap: 30px;
